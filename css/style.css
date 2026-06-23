@@ -19,24 +19,21 @@ body {
 .grid-container {
   display: grid;
     max-width: 1440px;
-  height: 720px;
+  height: auto;
   margin: 0 auto; margin-top: 30px;
   gap: 14px;
   border-radius: 13px;
-  box-shadow: 5px 6px 15px 16px rgb(3, 3, 3,0.3);
   background-color: hsl(240, 53%, 93%);
   padding:30px;
 
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(8, 1fr);
+  grid-template-rows: auto auto auto;
 
   grid-template-areas:
     "aside2 hero hero aside3"
     "aside2 hero hero aside3"
-    "aside2 hero hero aside3"
     "aside2 aside4 aside5 aside3"
     "aside6 aside4 aside5 aside3"
-    "aside6 aside7 aside8 aside8"
     "aside6 aside7 aside8 aside8"
     "aside6 aside7 aside8 aside8";
 }
