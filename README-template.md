@@ -13,10 +13,8 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -28,15 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot 2026-06-21 080404.png)
+![](./Screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -53,9 +44,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS Grid
 ### What I learned
 
-I learnt the use of effective media query Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learnt the use of effective media query, use of alt in images, basic concept of the use of css grids and reponsive and accessible design.
 
-To see how you can add code snippets, see below:
 
 ```html
  <div class="item growth"> <h2>>56%</h2><br>
