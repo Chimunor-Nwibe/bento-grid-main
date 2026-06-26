@@ -32,12 +32,12 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Chimunor-Nwibe/bento-grid-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://bento-grid-main-lyart.vercel.app/)
 
 ## My process
 
 ### Built with
-
+- Css transistion
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -85,13 +85,13 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-I would like to continue learning and focus on these more css grid, flexbox and css transitions
+I would like to continue learning and focus on these more on css grid, flexbox and css transitions to make more responsive and exicting designs
 
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.freecodecamp.org/news/bento-grids-in-web-design/) - This heped understand how bento grids are arranged.
+- [Example resource](https://www.freecodecamp.org/news/bento-grids-in-web-design/) - This heped understand how bento grids are arranged.
 
 
 
@@ -100,6 +100,5 @@ I would like to continue learning and focus on these more css grid, flexbox and 
 - Frontend Mentor - [@@Chimunor-Nwibe](https://www.frontendmentor.io/profile/Chimunor-Nwibe)
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
